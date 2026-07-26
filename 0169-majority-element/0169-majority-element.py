@@ -7,11 +7,20 @@ class Solution:
                 hashmap[nums[i]]+= 1
             else:
                 hashmap[nums[i]] =1
-        res= 0
-        nums_set =set(nums)
-        for i in nums_set:
-            res = max(res,hashmap[i])
-        for key,val in hashmap.items():
-            if res == val:
-                return(key)
+        # res= 0
+        # nums_set =set(nums)
+        # for i in nums_set:
+        #     res = max(res,hashmap[i])
+        # for key,val in hashmap.items():
+        #     if res == val:
+        #         return(key)
+
+        max_key = None
+        max_value = float("-inf")
+
+        for key, value in hashmap.items():
+            if value > max_value:
+                max_value = value
+                max_key = key
+        return max_key
         
