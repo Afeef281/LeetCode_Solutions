@@ -11,15 +11,15 @@ class Solution:
             profit = max(profit, p - buy_price)
         
         return profit
-        mini = prices[0]
-        n=len(prices)
+        # mini = prices[0]
+        # n=len(prices)
 
-        for i in range(1,n):
-            if prices[i] < prices[mini]:
-                mini = i
-        if mini == n-1:
-            return 0
-        maxi = prices[mini]    
-        for j in range(i+1,n-1):
-            if prices[i] > prices[maxi]:
-                maxi = i
+        # for i in range(1,n):
+        #     if prices[i] < prices[mini]:
+        #         mini = i
+        # if mini == n-1:
+        #     return 0
+        # maxi = prices[mini]    
+        # for j in range(i+1,n-1):
+        #     if prices[i] > prices[maxi]:
+        #         maxi = i
