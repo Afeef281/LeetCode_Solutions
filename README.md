@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Afeef281/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Afeef281/LeetCode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
