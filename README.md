@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Afeef281/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Afeef281/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Afeef281/LeetCode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [1903-largest-odd-number-in-string](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Afeef281/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
