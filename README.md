@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Afeef281/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Afeef281/LeetCode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
