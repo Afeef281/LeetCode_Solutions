@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Afeef281/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
