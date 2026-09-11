@@ -3,10 +3,7 @@ class Solution:
         hashstr = {}
         if len(s) != len(t):return False
         for char in s:
-            if char not in hashstr:
-                hashstr[char]=1
-            else:
-                hashstr[char] +=1
+            hashstr[char] = hashstr.get(char,0)+1
         for i in range(len(s)):
             if t[i] not in hashstr or hashstr[t[i]] == 0:
                 return False
