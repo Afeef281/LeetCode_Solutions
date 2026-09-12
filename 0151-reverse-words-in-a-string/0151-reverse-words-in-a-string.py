@@ -1,7 +1,21 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
         words = s.split()
-        res = []
+        # words = []
+        # word = ""
+
+        # for i in range(len(s)):
+        #     if s[i] != ' ':
+        #         word += s[i]
+        #     else:
+        #         if word != "":
+        #             words.append(word)
+        #             word = ""
+
+        # if word != "":
+        #     words.append(word)
+                
+        res =[]
 
         for i in range(len(words) - 1, -1, -1):
             res.append(words[i])
@@ -10,5 +24,5 @@ class Solution:
 
         return "".join(res)
 
-        return s
+        
         
