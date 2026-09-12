@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -62,13 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -142,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
