@@ -177,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0231-power-of-two) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
