@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Afeef281/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Afeef281/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Afeef281/LeetCode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Afeef281/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/Afeef281/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
