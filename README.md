@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Afeef281/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
