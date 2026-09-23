@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0875-koko-eating-bananas](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0875-koko-eating-bananas](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
