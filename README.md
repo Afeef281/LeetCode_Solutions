@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0231-power-of-two) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
