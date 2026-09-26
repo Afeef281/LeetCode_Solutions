@@ -9,7 +9,6 @@ class Solution:
             head = head.next
 
         curr = head
-        z=0
         if head == None:
             return head
 
