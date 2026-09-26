@@ -9,10 +9,8 @@ class Solution:
             head = head.next
 
         curr = head
-        if head == None:
-            return head
 
-        while curr.next != None:
+        while curr != None and curr.next != None:
             if curr.next.val == val:
                 curr.next = curr.next.next
             else:
