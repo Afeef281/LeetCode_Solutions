@@ -8,7 +8,7 @@ class Solution:
         nums = []
         curr = head
 
-        while curr!=None:
+        while curr:
             nums.append(curr.val)
             curr=curr.next
 
