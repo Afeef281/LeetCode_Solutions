@@ -6,21 +6,6 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        # hashlink = {}
-        # pos =-1
-        # curr = head
-        # if head==None or head.next==None:
-        #     return False
-
-        # while curr!=None:
-        #     if curr.val not in hashlink:
-        #         pos+=1
-        #         hashlink[curr.val] = pos
-        #     elif hashlink[curr.val] != pos:
-        #         return False
-        #     curr = curr.next
-        # return True
-
         hashlink = {}
         curr = head
 
@@ -28,7 +13,7 @@ class Solution:
             if curr in hashlink:
                 return True
 
-            hashlink[curr] = True
+            hashlink[curr] = 1
             curr = curr.next
 
         return False
