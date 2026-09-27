@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Afeef281/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Afeef281/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
