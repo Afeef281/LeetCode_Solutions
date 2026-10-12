@@ -19,22 +19,3 @@ class Solution:
         
         curr.next = curr.next.next
         return head
-
-        # count = 0
-        # curr = head
-
-        # while curr != None:
-        #     count += 1
-        #     curr = curr.next
-
-        # if count == n:
-        #     return head.next
-
-        # curr = head
-
-        # for i in range(count - n - 1):
-        #     curr = curr.next
-
-        # curr.next = curr.next.next
-
-        # return head
