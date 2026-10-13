@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Afeef281/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
